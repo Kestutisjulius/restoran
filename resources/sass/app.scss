@@ -1,0 +1,28 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+.r-txt{
+    font-size: 21px;
+    color: cadetblue;
+    font-weight: bold;
+}
+.bd{
+    border: none;
+    background: none;
+    color: #fff;
+}
+.e-img{
+    width: 200px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px #000;
+}
+.check-color{
+    color: black;
+
+}
